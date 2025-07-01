@@ -12,6 +12,7 @@ function TeamRoster({team}) {
     return (
         <div className='team-roster'>
             <h1 className='team-name'>{team.name}</h1>
+            <h3 className='prefecture'>{team.prefecture} Prefecture</h3>
             <div className='players'>
                 <h2 className='category'>Players</h2>
                 {players.map((char) => (

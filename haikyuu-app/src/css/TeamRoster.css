@@ -13,6 +13,13 @@
     text-shadow: 3px 3px 5px black;
 }
 
+.team-roster .prefecture {
+    font-size: 21px;
+    font-weight: 500;
+    margin: 5px 0 -30px 0;
+    text-shadow: 3px 3px 5px black;
+}
+
 .team-roster .category {
     font-size: 30px;
     text-shadow: 3px 3px 5px black;

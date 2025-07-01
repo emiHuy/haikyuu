@@ -1124,50 +1124,60 @@ export const teams=[
         id: 1,
         name: 'Karasuno',
         banner: '/assets/images/karasuno/karasuno-banner.jpg',
+        prefecture: 'Miyagi',
     },
     {
         id: 2,
         name: 'Aoba Johsai',
         banner: '/assets/images/aoba-johsai/aoba-johsai-banner.jpg',
+        prefecture: 'Miyagi',
     },
     {
         id: 3,
         name: 'Nekoma',
         banner: '/assets/images/nekoma/nekoma-banner.jpg',
+        prefecture: 'Tokyo',
     },
     {
         id: 4,
         name: 'Shiratorizawa',
         banner: '/assets/images/shiratorizawa/shiratorizawa-banner.jpg',
+        prefecture: 'Miyagi',
     },
     {
         id: 5,
         name: 'Fukurōdani',
         banner: '/assets/images/fukurodani/fukurodani-banner.jpg',
+        prefecture: 'Tokyo',
     },
     {
         id: 6,
         name: 'Inarizaki',
         banner: '/assets/images/inarizaki/inarizaki-banner.jpg',
+        prefecture: 'Hyōgo',
     },
     {
         id: 7,
         name: 'Johzenji',
         banner: '/assets/images/johzenji/johzenji-banner.jpg',
+        prefecture: 'Miyagi',
     },
     {
         id: 8,
         name: 'Date Tech',
         banner: '/assets/images/date-tech/date-tech-banner.jpg',
+        prefecture: 'Miyagi',
     },
     {
         id: 9,
         name: 'Nohebi',
         banner: '/assets/images/nohebi/nohebi-banner.jpg',
+        prefecture: 'Tokyo',
     },
     {
         id: 10,
         name: 'Wakutani Minami',
         banner: '/assets/images/wakutani-minami/wakutani-minami-banner.jpg',
+        prefecture: 'Miyagi',
     }
 ];
