@@ -1,7 +1,7 @@
 import { useRef } from 'react';
 import '../css/SearchBar.css';
 
-function SearchBar({ searchTerm, setSearchTerm, placeholder='Search character...'}) {
+function SearchBar({searchTerm, setSearchTerm, placeholder='Search character...'}) {
     const inputRef = useRef(null);
     const handleClick = () => {
         inputRef.current?.focus();

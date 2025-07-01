@@ -1,0 +1,51 @@
+.roster-card {
+    background-color: rgb(42, 42, 42);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+    padding: 15px;
+    width: min(90vw, 900px);
+    display: flex;
+    gap: 25px;
+    border-radius: 5px;
+    position: relative;
+    scale: 1;
+    transition: scale 0.2s ease;
+}
+
+.roster-card:hover {
+    scale: 1.02;
+    transition: scale 0.3s ease;
+}
+
+.roster-card img {
+    border-radius: 2%;
+    width: 170px;
+}
+
+.roster-card .text h2 {
+    font-size: 32px;
+    padding: 0;
+    margin: 0;
+}
+
+.roster-card .text h3 {
+    font-size: 21px;
+    font-weight: 500;
+    padding: 5px 0 15px 0;
+    margin: -5px 0 0 0;
+}
+
+.roster-card .text p {
+    font-size: 18px;
+    padding: 2px 0;
+    margin: 0;
+}
+
+.roster-card h1 {
+    font-size: 70px;;
+    font-weight: 500;
+    padding: 5px 2px;
+    margin: -5px 0 0 ;
+    position: absolute;
+    top: 40px;
+    right: 60px;
+}

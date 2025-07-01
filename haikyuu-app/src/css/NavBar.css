@@ -15,8 +15,8 @@
 .nav-bar-links {
     display: flex;
     flex-direction: row;
-    gap: 60px;
-    padding: 0 60px;
+    gap: min(60px, 5vw);
+    padding: 0 60px 0 0;
     align-items: center;
     justify-content: center;
     height: 100px;
@@ -27,11 +27,20 @@
     font-size: 18px;
     color: rgb(255, 132, 0);
     font-weight: 500;
-    padding: 0;
+    padding: 0 5px 10px 0px; 
+    border-radius: 8%;
+    border-bottom: transparent 2px solid;
+    transition: border-color 0.25s ease;
 }
 
 .nav-link {
     display: flex;
     flex-direction: row;
     gap: 10px;
+    align-items: center;
+}
+
+.nav-link.active {
+    border-bottom: rgba(255, 132, 0, 0.9) 2px solid;
+    transition: border-color 0.25s ease;
 }

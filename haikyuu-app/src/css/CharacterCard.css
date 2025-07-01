@@ -8,11 +8,12 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
     background-color: rgb(42, 42, 42);
     scale: 1;
+    transition: scale 0.2s ease;
 }
 
 .character-card:hover {
     scale: 1.03;
-    transition: scale 0.4s ease;
+    transition: scale 0.3s ease;
 }
 
 .character-card h3 {

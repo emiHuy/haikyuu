@@ -1,0 +1,27 @@
+.team-card {
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+    scale: 1;
+    transition: scale 0.2s ease;
+    border: transparent solid 2px;
+}
+
+.team-card:hover {
+    scale: 1.03;
+    transition: scale 0.3s ease;
+    border: rgba(255, 255, 255, 0.8) solid 2px;
+}
+
+.team-card img {
+    width: min(90vw, 900px);
+    display: block;
+}
+
+.team-card h2 {
+    position: absolute;
+    left: 25px;
+    bottom: -15px;
+    color: white;
+    font-size: 35px;
+    text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.6);
+}
