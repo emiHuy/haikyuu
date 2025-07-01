@@ -5,10 +5,11 @@
     justify-content: space-between;
     background-color: rgb(24, 24, 24);
     margin-bottom: 20px;
+    width: 100vw;
 }
 
 .nav-bar-brand img {
-    padding: 0 20px;
+    padding: 0 30px;
 }
 
 .nav-bar-links {

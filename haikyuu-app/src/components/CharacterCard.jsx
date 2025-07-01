@@ -1,4 +1,4 @@
-import '../css/CharacterCard.css'
+import '../css/CharacterCard.css';
 
 function CharacterCard({character}) {
     let [firstName, lastName] = character.name.split(' ');
