@@ -1,7 +1,7 @@
 .team-roster {
     display: flex;
     flex-direction: column;
-    gap: 70px;
+    gap: 40px;
     align-items: center;
     padding-bottom: 20px;
 }
@@ -9,7 +9,7 @@
 .team-roster .team-name {
     font-size: 50px;
     padding: 20px 0 0px 0;
-    margin: 15px 0 -35px 0;
+    margin: 15px 0 -45px 0;
     text-shadow: 3px 3px 5px black;
 }
 
@@ -26,5 +26,6 @@
     flex-direction: column;
     gap: 20px;
     align-items: center;
+    padding: 15px;
 }
 
