@@ -149,7 +149,7 @@ export const characters = [
     },
     {
         id: 15,
-        type: 'Head Coach',
+        type: 'Assistant Coach',
         name: 'Keishin Ukai',
         team: 'Karasuno',
         image: '/assets/images/karasuno/keishin-ukai.jpg',
@@ -269,7 +269,7 @@ export const characters = [
     },
     {
         id: 27,
-        type: 'Coach',
+        type: 'Assistant Coach',
         name: 'Sadayuki Mizoguchi',
         team: 'Aoba Johsai',
         image: '/assets/images/aoba-johsai/sadayuki-mizoguchi.png',
