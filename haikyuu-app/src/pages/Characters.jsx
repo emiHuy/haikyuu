@@ -7,7 +7,7 @@ import '../css/Characters.css';
 function normalizeString(str) {
   const normalized = str
     .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '') // Remove standard diacritics
+    .replace(/[\u0300-\u036f]/g, '')
 
   // Replace macron vowels with normal vowels
   const replacedMacrons = normalized

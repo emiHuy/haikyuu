@@ -5,8 +5,8 @@
     margin: 0;
     padding: 0 0 20px 0;
     border-radius: 5%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
-    background-color: rgb(40, 40, 40);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+    background-color: rgb(42, 42, 42);
     scale: 1;
 }
 
