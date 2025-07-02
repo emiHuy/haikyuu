@@ -4,16 +4,18 @@
     align-items: center;
     margin: 0;
     padding: 0 0 20px 0;
-    border-radius: 5%;
+    border-radius: 3%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
     background-color: rgb(42, 42, 42);
     scale: 1;
-    transition: scale 0.2s ease;
+    transition: scale 0.2s ease, background-color 0.3s ease;
+    position: relative;
 }
 
 .character-card:hover {
     scale: 1.03;
-    transition: scale 0.3s ease;
+    transition: scale 0.3s ease, background-color 0.3s ease;
+    background-color: rgb(35, 35, 35);
 }
 
 .character-card h3 {
@@ -34,4 +36,50 @@
 .character-card img {
     border-top-left-radius: 5%;
     border-top-right-radius: 5%;
+}
+
+.hover-layer {
+    opacity: 0;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    padding: 0;
+    margin: 0;
+    transition: opacity 0.3s ease;
+}
+
+.hover-layer .hover-text {
+    padding: 0 10px;
+    margin: 0;
+}
+
+.hover-layer .hover-text h3 {
+    padding: 0;
+    font-size: 22px;
+}
+
+.hover-layer .hover-text h4 {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+}
+
+.hover-layer .hover-text .bottom-info {
+    position: absolute;
+    bottom: 15px;
+}
+
+.hover-layer .hover-text p {
+    font-weight: 500;
+    font-size: 17px;
+    padding: 0;
+}
+
+.character-card:hover .hover-layer {
+    opacity: 1;
+    transition: opacity 0.3s ease;
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.5);
 }

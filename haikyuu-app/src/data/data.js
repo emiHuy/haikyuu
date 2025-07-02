@@ -651,7 +651,7 @@ export const characters = [
         height: 184.7,
         team: 'Inarizaki',
         year: 3,
-        position: 'Outside Hitter (On-Court Captain, Ace)',
+        position: 'Outside Hitter (Court Captain, Ace)',
         jerseyNumber: 4,
         image: '/assets/images/inarizaki/aran-ojiro.png',
     },
