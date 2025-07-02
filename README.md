@@ -54,18 +54,18 @@ A simple React web app built as a learning project. It displays characters and t
 ```bash
 haikyuu/ # Root repository folder
 └── haikyuu-app/ # React app folder
-|   ├── node_modules/ # Installed dependencies
-|   ├── public/
-|   │   ├── assets/
-|   │   │ └── images/ # Images used in the app
-|   ├── src/
-|   │   ├── components/ # Reusable React components
-|   │   ├── css/ # CSS stylesheets
-|   │   ├── data/ # Static data files 
-|   │   ├── pages/ # Page components 
-|   │   ├── App.jsx # Root React component
-|   │   └── main.jsx # React app entry point (rendering App)
-|   └── index.html # Main HTML file
+    ├── node_modules/ # Installed dependencies
+    ├── public/
+    │   ├── assets/
+    │   │ └── images/ # Images used in the app
+    ├── src/
+    │   ├── components/ # Reusable React components
+    │   ├── css/ # CSS stylesheets
+    │   ├── data/ # Static data files 
+    │   ├── pages/ # Page components 
+    │   ├── App.jsx # Root React component
+    │   └── main.jsx # React app entry point (rendering App)
+    └── index.html # Main HTML file
 └── README.md # project info
 ```
 
@@ -81,20 +81,20 @@ haikyuu/ # Root repository folder
 ## 📸 Gallery
 
 ### Characters Page
-![Characters Page](public/assets/images/gallery/characters-page.png)
+![Characters Page](haikyuu-app/public/assets/images/gallery/characters-page.png)
 
 ### Character Search
-![Character Search](public/assets/images/gallery/character-search.png)
+![Character Search](haikyuu-app/public/assets/images/gallery/character-search.png)
 
 ### Character Cards (Right = Hover)
 <p>
-  <img src="public/assets/images/gallery/character-card.png" width="20%" />
-  <img src="public/assets/images/gallery/character-card-hover.png" width="20%" />
+  <img src='haikyuu-app/public/assets/images/gallery/character-card.png' width='20%' />
+  <img src='haikyuu-app/public/assets/images/gallery/character-card-hover.png' width='20%' />
 </p>
 
 ### Teams Page
-![Teams Page](public/assets/images/gallery/teams-page.png) 
+![Teams Page](haikyuu-app/public/assets/images/gallery/teams-page.png) 
 
 ### Team Roster
-![Team Roster 1](public/assets//images/gallery/team-roster(1).png)
-![Team Roster 2](public/assets//images/gallery/team-roster(2).png)
+![Team Roster 1](haikyuu-app/public/assets//images/gallery/team-roster(1).png)
+![Team Roster 2](haikyuu-app/public/assets//images/gallery/team-roster(2).png)
