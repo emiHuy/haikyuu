@@ -57,7 +57,7 @@
   }
   .nav-bar-brand img {
     padding-left: min(7vw, 18px);
-    padding-right: min(6vw, 20px);
+    padding-right: 7vw;
     width: min(25vw, 160px);
   }
   .nav-bar-links a{
