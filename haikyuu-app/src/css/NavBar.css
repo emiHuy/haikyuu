@@ -9,10 +9,12 @@
     position: sticky;
     top: 0;
     z-index: 1000;
+    overflow-x: hidden;
 }
 
 .nav-bar-brand img {
     padding: 0 30px;
+    width: 160px;
 }
 
 .nav-bar-links {
@@ -46,4 +48,19 @@
 .nav-link.active {
     border-bottom: rgba(255, 132, 0, 0.9) 2px solid;
     transition: border-color 0.25s ease;
+}
+
+@media (max-width: 790px) {
+  .nav-bar {
+    padding: 0;
+    width: 100vw;
+  }
+  .nav-bar-brand img {
+    padding-left: min(7vw, 18px);
+    padding-right: min(6vw, 20px);
+    width: min(25vw, 160px);
+  }
+  .nav-bar-links a{
+    font-size: min(3.8vw, 18px);
+  }
 }

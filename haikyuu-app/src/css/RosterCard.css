@@ -67,3 +67,37 @@
     font-size: max(2.3vw, 15px);
   }
 }
+
+@media (max-width: 500px) {
+  .roster-card .text h2 {
+    font-size: max(3.9vw, 24px);
+  }
+  .roster-card .text h3 {
+    font-size: max(2.6vw, 16px);
+  }
+  .roster-card h1 {
+    font-size: 35px;
+    top: 140px;
+    right: 15px;
+  }
+  .roster-card .text p {
+    font-size: max(2.3vw, 15px);
+  }
+}
+
+@media (max-width: 400px) {
+  .roster-card .text h2 {
+    font-size: max(3.9vw, 22px);
+  }
+  .roster-card .text h3 {
+    font-size: max(2.6vw, 15px);
+  }
+  .roster-card h1 {
+    font-size: 20px;
+    top: 165px;
+    right: 10px;
+  }
+  .roster-card .text p {
+    font-size: max(2.3vw, 14px);
+  }
+}

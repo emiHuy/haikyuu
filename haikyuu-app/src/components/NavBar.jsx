@@ -7,7 +7,7 @@ function NavBar() {
         <div className='nav-bar'>
             <div className='nav-bar-brand'>
                 <NavLink to='/'>
-                    <img src={`${import.meta.env.BASE_URL}assets/images/haikyuu-logo.png`} alt='haikyuu logo' width='160'/>
+                    <img src={`${import.meta.env.BASE_URL}assets/images/haikyuu-logo.png`} alt='haikyuu logo'/>
                 </NavLink>
             </div>
             <div className='nav-bar-links'>
