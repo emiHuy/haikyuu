@@ -36,3 +36,8 @@
     padding: 15px;
 }
 
+@media (max-width: 500px) {
+  .players, .managers, .coaches {
+    padding: 5px;
+  } 
+}

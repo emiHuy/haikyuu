@@ -69,6 +69,9 @@
 }
 
 @media (max-width: 500px) {
+  .roster-card {
+    width: 88vw;
+  }
   .roster-card .text h2 {
     font-size: max(3.9vw, 24px);
   }
