@@ -42,11 +42,28 @@
 }
 
 .roster-card h1 {
-    font-size: 70px;;
+    font-size: 70px;
     font-weight: 500;
     padding: 5px 2px;
     margin: -5px 0 0 ;
     position: absolute;
     top: 40px;
     right: 60px;
+}
+
+@media (max-width: 790px) {
+  .roster-card .text h2 {
+    font-size: max(3.9vw, 26px);
+  }
+  .roster-card .text h3 {
+    font-size: max(2.6vw, 18px);
+  }
+  .roster-card h1 {
+    font-size: 55px;
+    top: 105px;
+    right: 25px;
+  }
+  .roster-card .text p {
+    font-size: max(2.3vw, 15px);
+  }
 }
