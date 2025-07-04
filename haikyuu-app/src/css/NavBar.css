@@ -52,7 +52,6 @@
 
 @media (max-width: 790px) {
   .nav-bar {
-    padding: 0;
     width: 100vw;
   }
   .nav-bar-brand img {
