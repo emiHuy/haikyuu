@@ -2,8 +2,11 @@
 
 A simple React web app built as a learning project. It displays characters and teams from *Haikyuu!!*, with features like searchable character cards and a teams page that brings users to team rosters. The project focuses on building reusable components and practicing key React concepts such as props, state, and conditional rendering.
 
+## 🚀 Live Demo
+👉 [Try it now](https://emihuy.github.io/haikyuu/)
 
-## 🚀 Features
+
+## ✨ Features
 
 - **Character Cards:** Browse a full list of *Haikyuu!!* characters with their basic information in clean, reusable cards sorted in alpha order by last name.
 - **Hover Details:** Hover over a character card to reveal additional details
