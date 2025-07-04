@@ -8,7 +8,7 @@ export const characters = [
         year: 3,
         position: 'Opposite Hitter (Captain)',
         jerseyNumber: 1,
-        image: '/assets/images/karasuno/daichi-sawamura.jpg',
+        image: 'assets/images/karasuno/daichi-sawamura.jpg',
     },
     {
         id: 2,
@@ -19,7 +19,7 @@ export const characters = [
         year: 3,
         position: 'Setter (Vice Captain)',
         jerseyNumber: 2,
-        image: '/assets/images/karasuno/koshi-sugawara.png',
+        image: 'assets/images/karasuno/koshi-sugawara.png',
     },
     {
         id: 3,
@@ -30,7 +30,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter (Ace)',
         jerseyNumber: 3,
-        image: '/assets/images/karasuno/asahi-azumane.jpg',
+        image: 'assets/images/karasuno/asahi-azumane.jpg',
     },
     {
         id: 4,
@@ -41,7 +41,7 @@ export const characters = [
         year: 2,
         position: 'Libero',
         jerseyNumber: 4,
-        image: '/assets/images/karasuno/yu-nishinoya.png',
+        image: 'assets/images/karasuno/yu-nishinoya.png',
     },
     {
         id: 5,
@@ -52,7 +52,7 @@ export const characters = [
         year: 2,
         position: 'Outside Hitter',
         jerseyNumber: 5,
-        image: '/assets/images/karasuno/ryunoske-tanaka.jpg',
+        image: 'assets/images/karasuno/ryunoske-tanaka.jpg',
     },
     {
         id: 6,
@@ -63,7 +63,7 @@ export const characters = [
         year: 2,
         position: 'Outside Hitter',
         jerseyNumber: 6,
-        image: '/assets/images/karasuno/chikara-ennoshita.jpg',
+        image: 'assets/images/karasuno/chikara-ennoshita.jpg',
     },
     {
         id: 7,
@@ -74,7 +74,7 @@ export const characters = [
         year: 2,
         position: 'Wing Spiker / Pinch Server',
         jerseyNumber: 7,
-        image: '/assets/images/karasuno/hisashi-kinoshita.png',
+        image: 'assets/images/karasuno/hisashi-kinoshita.png',
     },
     {
         id: 8,
@@ -85,7 +85,7 @@ export const characters = [
         year: 2,
         position: 'Middle Blocker',
         jerseyNumber: 8,
-        image: '/assets/images/karasuno/kazuhito-narita.jpg',
+        image: 'assets/images/karasuno/kazuhito-narita.jpg',
     },
     {
         id: 9,
@@ -96,7 +96,7 @@ export const characters = [
         year: 1,
         position: 'Setter',
         jerseyNumber: 9,
-        image: '/assets/images/karasuno/tobio-kageyama.png',
+        image: 'assets/images/karasuno/tobio-kageyama.png',
     },
     { 
         id: 10,
@@ -107,7 +107,7 @@ export const characters = [
         year: 1,
         position: 'Middle Blocker (Decoy)',
         jerseyNumber: 10,
-        image: '/assets/images/karasuno/shoyo-hinata.png',
+        image: 'assets/images/karasuno/shoyo-hinata.png',
     },
     {
         id: 11,
@@ -118,7 +118,7 @@ export const characters = [
         year: 1,
         position: 'Middle Blocker',
         jerseyNumber: 11,
-        image: '/assets/images/karasuno/kei-tsukishima.png',
+        image: 'assets/images/karasuno/kei-tsukishima.png',
     },
     {
         id: 12,
@@ -129,7 +129,7 @@ export const characters = [
         year: 1,
         position: 'Middle Blocker / Pinch Server',
         jerseyNumber: 12,
-        image: '/assets/images/karasuno/tadashi-yamaguchi.jpg',
+        image: 'assets/images/karasuno/tadashi-yamaguchi.jpg',
     },
     {
         id: 13,
@@ -137,7 +137,7 @@ export const characters = [
         name: 'Kiyoko Shimizu',
         team: 'Karasuno',
         year: 3,
-        image: '/assets/images/karasuno/kiyoko-shimizu.png',
+        image: 'assets/images/karasuno/kiyoko-shimizu.png',
     },
     {
         id: 14,
@@ -145,21 +145,21 @@ export const characters = [
         name: 'Hitoka Yachi',
         team: 'Karasuno',
         year: 1,
-        image: '/assets/images/karasuno/hitoka-yachi.jpg',
+        image: 'assets/images/karasuno/hitoka-yachi.jpg',
     },
     {
         id: 15,
         type: 'Head Coach / Advisor',
         name: 'Ittetsu Takeda',
         team: 'Karasuno',
-        image: '/assets/images/karasuno/ittetsu-takeda.jpg',
+        image: 'assets/images/karasuno/ittetsu-takeda.jpg',
     },
     {
         id: 16,
         type: 'Assistant Coach',
         name: 'Keishin Ukai',
         team: 'Karasuno',
-        image: '/assets/images/karasuno/keishin-ukai.jpg',
+        image: 'assets/images/karasuno/keishin-ukai.jpg',
     },
     {
         id: 17,
@@ -170,7 +170,7 @@ export const characters = [
         year: 3,
         position: 'Setter (Captain)',
         jerseyNumber: 1,
-        image: '/assets/images/aoba-johsai/toru-oikawa.png',
+        image: 'assets/images/aoba-johsai/toru-oikawa.png',
     }, 
     {
         id: 18,
@@ -181,7 +181,7 @@ export const characters = [
         year: 3,
         position: 'Middle Blocker',
         jerseyNumber: 2,
-        image: '/assets/images/aoba-johsai/issei-matsukawa.png',
+        image: 'assets/images/aoba-johsai/issei-matsukawa.png',
     },
     {
         id: 19,
@@ -192,7 +192,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter',
         jerseyNumber: 3,
-        image: '/assets/images/aoba-johsai/takahiro-hanamaki.png',
+        image: 'assets/images/aoba-johsai/takahiro-hanamaki.png',
     },
     {
         id: 20,
@@ -203,7 +203,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter (Vice Captain, Ace)',
         jerseyNumber: 4,
-        image: '/assets/images/aoba-johsai/hajime-iwaizumi.png',
+        image: 'assets/images/aoba-johsai/hajime-iwaizumi.png',
     },
     {
         id: 21,
@@ -214,7 +214,7 @@ export const characters = [
         year: 2,
         position: 'Setter / Pinch Server',
         jerseyNumber: 6,
-        image: '/assets/images/aoba-johsai/shigeru-yahaba.png',
+        image: 'assets/images/aoba-johsai/shigeru-yahaba.png',
     },
     {
         id: 22,
@@ -225,7 +225,7 @@ export const characters = [
         year: 2,
         position: 'Libero',
         jerseyNumber: 7,
-        image: '/assets/images/aoba-johsai/shinji-watari.png',
+        image: 'assets/images/aoba-johsai/shinji-watari.png',
     },
     {
         id: 23,
@@ -236,7 +236,7 @@ export const characters = [
         year: 1,
         position: 'Middle Blocker',
         jerseyNumber: 12,
-        image: '/assets/images/aoba-johsai/yutaro-kindaichi.png',
+        image: 'assets/images/aoba-johsai/yutaro-kindaichi.png',
     },
     {
         id: 24,
@@ -247,7 +247,7 @@ export const characters = [
         year: 1,
         position: 'Opposite Hitter',
         jerseyNumber: 13,
-        image: '/assets/images/aoba-johsai/akira-kunimi.png',
+        image: 'assets/images/aoba-johsai/akira-kunimi.png',
     },
     {
         id: 25,
@@ -258,21 +258,21 @@ export const characters = [
         year: 2,
         position: 'Opposite Hitter',
         jerseyNumber: 16,
-        image: '/assets/images/aoba-johsai/kentaro-kyotani.png',
+        image: 'assets/images/aoba-johsai/kentaro-kyotani.png',
     },
     {
         id: 26,
         type: 'Head Coach',
         name: 'Nobuteru Irihata',
         team: 'Aoba Johsai',
-        image: '/assets/images/aoba-johsai/nobuteru-irihata.png',
+        image: 'assets/images/aoba-johsai/nobuteru-irihata.png',
     },
     {
         id: 27,
         type: 'Assistant Coach',
         name: 'Sadayuki Mizoguchi',
         team: 'Aoba Johsai',
-        image: '/assets/images/aoba-johsai/sadayuki-mizoguchi.png',
+        image: 'assets/images/aoba-johsai/sadayuki-mizoguchi.png',
     },
     {
         id: 28,
@@ -283,7 +283,7 @@ export const characters = [
         year: 3,
         position: 'Middle Blocker (Captain)',
         jerseyNumber: 1,
-        image: '/assets/images/nekoma/tetsuro-kuroo.png',
+        image: 'assets/images/nekoma/tetsuro-kuroo.png',
     },
     {
         id: 29,
@@ -294,7 +294,7 @@ export const characters = [
         year: 3,
         position: 'Opposite Hitter (Vice Captain)',
         jerseyNumber: 2,
-        image: '/assets/images/nekoma/nobuyuki-kai.png',
+        image: 'assets/images/nekoma/nobuyuki-kai.png',
     },
     {
         id: 30,
@@ -305,7 +305,7 @@ export const characters = [
         year: 3,
         position: 'Libero',
         jerseyNumber: 3,
-        image: '/assets/images/nekoma/morisuke-yaku.png',
+        image: 'assets/images/nekoma/morisuke-yaku.png',
     },
     {
         id: 31,
@@ -316,7 +316,7 @@ export const characters = [
         year: 2,
         position: 'Outside Hitter (Ace)',
         jerseyNumber: 4,
-        image: '/assets/images/nekoma/taketora-yamamoto.png',
+        image: 'assets/images/nekoma/taketora-yamamoto.png',
     },
     {
         id: 32,
@@ -327,7 +327,7 @@ export const characters = [
         year: 2,
         position: 'Setter',
         jerseyNumber: 5,
-        image: '/assets/images/nekoma/kenma-kozume.png',
+        image: 'assets/images/nekoma/kenma-kozume.png',
     },
     {
         id: 33,
@@ -338,7 +338,7 @@ export const characters = [
         year: 2,
         position: 'Outside Hitter',
         jerseyNumber: 6,
-        image: '/assets/images/nekoma/shohei-fukunaga.png',
+        image: 'assets/images/nekoma/shohei-fukunaga.png',
     },
     {
         id: 34,
@@ -349,7 +349,7 @@ export const characters = [
         year: 1,
         position: 'Middle Blocker / Opposite Hitter',
         jerseyNumber: 7,
-        image: '/assets/images/nekoma/so-inuoka.png',
+        image: 'assets/images/nekoma/so-inuoka.png',
     },
     {
         id: 35,
@@ -360,7 +360,7 @@ export const characters = [
         year: 1,
         position: 'Setter / Pinch Server',
         jerseyNumber: 9,
-        image: '/assets/images/nekoma/tamahiko-teshiro.png',
+        image: 'assets/images/nekoma/tamahiko-teshiro.png',
     },
     {
         id: 36,
@@ -371,7 +371,7 @@ export const characters = [
         year: 1,
         position: 'Middle Blocker',
         jerseyNumber: 11,
-        image: '/assets/images/nekoma/lev-haiba.png',
+        image: 'assets/images/nekoma/lev-haiba.png',
     },
     {
         id: 37,
@@ -382,21 +382,21 @@ export const characters = [
         year: 1,
         position: 'Libero',
         jerseyNumber: 12,
-        image: '/assets/images/nekoma/yuki-shibayama.png',
+        image: 'assets/images/nekoma/yuki-shibayama.png',
     },
     {
         id: 38,
         type: 'Head Coach',
         name: 'Yasufumi Nekomata',
         team: 'Nekoma',
-        image: '/assets/images/nekoma/yasufumi-nekomata.png',
+        image: 'assets/images/nekoma/yasufumi-nekomata.png',
     },
     {
         id: 39,
         type: 'Assistant Coach',
         name: 'Manabu Naoi',
         team: 'Nekoma',
-        image: '/assets/images/nekoma/manabu-naoi.png',
+        image: 'assets/images/nekoma/manabu-naoi.png',
     },
     {
         id: 40,
@@ -407,7 +407,7 @@ export const characters = [
         year: 3,
         position: 'Opposite Hitter (Captain, Ace)',
         jerseyNumber: 1,
-        image: '/assets/images/shiratorizawa/wakatoshi-ushijima.png',
+        image: 'assets/images/shiratorizawa/wakatoshi-ushijima.png',
     },
     {
         id: 41,
@@ -418,7 +418,7 @@ export const characters = [
         year: 3,
         position: 'Setter / Pinch Server',
         jerseyNumber: 3,
-        image: '/assets/images/shiratorizawa/eita-semi.png',
+        image: 'assets/images/shiratorizawa/eita-semi.png',
     },
     {
         id: 42,
@@ -429,7 +429,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter (Vice Captain)',
         jerseyNumber: 4,
-        image: '/assets/images/shiratorizawa/reon-ohira.png',
+        image: 'assets/images/shiratorizawa/reon-ohira.png',
     },
     {
         id: 43,
@@ -440,7 +440,7 @@ export const characters = [
         year: 3,
         position: 'Middle Blocker',
         jerseyNumber: 5,
-        image: '/assets/images/shiratorizawa/satori-tendo.png',
+        image: 'assets/images/shiratorizawa/satori-tendo.png',
     },
     {
         id: 44,
@@ -451,7 +451,7 @@ export const characters = [
         year: 1,
         position: 'Outside Hitter',
         jerseyNumber: 8,
-        image: '/assets/images/shiratorizawa/tsutomu-goshiki.png',
+        image: 'assets/images/shiratorizawa/tsutomu-goshiki.png',
     },
     {
         id: 45,
@@ -462,7 +462,7 @@ export const characters = [
         year: 2,
         position: 'Setter',
         jerseyNumber: 10,
-        image: '/assets/images/shiratorizawa/kenjiro-shirabu.png',
+        image: 'assets/images/shiratorizawa/kenjiro-shirabu.png',
     },
     {
         id: 46,
@@ -473,7 +473,7 @@ export const characters = [
         year: 2,
         position: 'Middle Blocker',
         jerseyNumber: 12,
-        image: '/assets/images/shiratorizawa/taichi-kawanishi.png',
+        image: 'assets/images/shiratorizawa/taichi-kawanishi.png',
     },
     {
         id: 47,
@@ -484,7 +484,7 @@ export const characters = [
         year: 1,
         position: 'Libero',
         jerseyNumber: 13,
-        image: '/assets/images/shiratorizawa/kai-akakura.png',
+        image: 'assets/images/shiratorizawa/kai-akakura.png',
     },
     {
         id: 48,
@@ -495,7 +495,7 @@ export const characters = [
         year: 3,
         position: 'Libero',
         jerseyNumber: 14,
-        image: '/assets/images/shiratorizawa/hayato-yamagata.png',
+        image: 'assets/images/shiratorizawa/hayato-yamagata.png',
     },
     {
         id: 49,
@@ -506,21 +506,21 @@ export const characters = [
         year: 1,
         position: 'Wing Spiker',
         jerseyNumber: '?',
-        image: '/assets/images/shiratorizawa/yusho-sagae.png',
+        image: 'assets/images/shiratorizawa/yusho-sagae.png',
     },
     {
         id: 50,
         type: 'Head Coach',
         name: 'Tanji Washijō',
         team: 'Shiratorizawa',
-        image: '/assets/images/shiratorizawa/tanji-washijo.png',
+        image: 'assets/images/shiratorizawa/tanji-washijo.png',
     },
     {
         id: 51,
         type: 'Assistant Coach',
         name: 'Akira Saitō',
         team: 'Shiratorizawa',
-        image: '/assets/images/shiratorizawa/akira-saito.png',
+        image: 'assets/images/shiratorizawa/akira-saito.png',
     },
     {
         id: 52,
@@ -531,7 +531,7 @@ export const characters = [
         year: 3,
         position: 'Middle Blocker',
         jerseyNumber: 2,
-        image: '/assets/images/fukurodani/tatsuki-washio.png',
+        image: 'assets/images/fukurodani/tatsuki-washio.png',
     },
     {
         id: 53,
@@ -542,7 +542,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter',
         jerseyNumber: 3,
-        image: '/assets/images/fukurodani/yamato-sarukui.png',
+        image: 'assets/images/fukurodani/yamato-sarukui.png',
     },
     {
         id: 54,
@@ -553,7 +553,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter (Captain, Ace)',
         jerseyNumber: 4,
-        image: '/assets/images/fukurodani/kotaro-bokuto.png',
+        image: 'assets/images/fukurodani/kotaro-bokuto.png',
     },
     {
         id: 55,
@@ -564,7 +564,7 @@ export const characters = [
         year: 2,
         position: 'Setter (Vice Captain)',
         jerseyNumber: 5,
-        image: '/assets/images/fukurodani/keiji-akaashi.png',
+        image: 'assets/images/fukurodani/keiji-akaashi.png',
     },
     {
         id: 56,
@@ -575,7 +575,7 @@ export const characters = [
         year: 3,
         position: 'Opposite Hitter',
         jerseyNumber: 7,
-        image: '/assets/images/fukurodani/akinori-konoha.png',
+        image: 'assets/images/fukurodani/akinori-konoha.png',
     },
     {
         id: 57,
@@ -586,7 +586,7 @@ export const characters = [
         year: 3,
         position: 'Libero',
         jerseyNumber: 11,
-        image: '/assets/images/fukurodani/haruki-komi.png',
+        image: 'assets/images/fukurodani/haruki-komi.png',
     },
     {
         id: 58,
@@ -597,7 +597,7 @@ export const characters = [
         year: 1,
         position: 'Middle Blocker',
         jerseyNumber: 12,
-        image: '/assets/images/fukurodani/wataru-onaga.png',
+        image: 'assets/images/fukurodani/wataru-onaga.png',
     },
     {
         id: 59,
@@ -605,7 +605,7 @@ export const characters = [
         name: 'Yukie Shirofuku',
         team: 'Fukurōdani',
         year: 3,
-        image: '/assets/images/fukurodani/yukie-shirofuku.png',
+        image: 'assets/images/fukurodani/yukie-shirofuku.png',
     },
     {
         id: 60,
@@ -613,14 +613,14 @@ export const characters = [
         name: 'Kaori Suzumeda',
         team: 'Fukurōdani',
         year: 3,
-        image: '/assets/images/fukurodani/kaori-suzumeda.png',
+        image: 'assets/images/fukurodani/kaori-suzumeda.png',
     },
     {
         id: 61,
         type: 'Head Coach',
         name: 'Takeyuki Yamiji',
         team: 'Fukurōdani',
-        image: '/assets/images/fukurodani/takeyuki-yamiji.png',
+        image: 'assets/images/fukurodani/takeyuki-yamiji.png',
     },
     {
         id: 62,
@@ -631,7 +631,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter / Defense Specialist (Captain)',
         jerseyNumber: 1,
-        image: '/assets/images/inarizaki/shinsuke-kita.png',
+        image: 'assets/images/inarizaki/shinsuke-kita.png',
     },
     {
         id: 63,
@@ -642,7 +642,7 @@ export const characters = [
         year: 3,
         position: 'Middle Blocker',
         jerseyNumber: 2,
-        image: '/assets/images/inarizaki/ren-omimi.png',
+        image: 'assets/images/inarizaki/ren-omimi.png',
     },
     {
         id: 64,
@@ -653,7 +653,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter (Court Captain, Ace)',
         jerseyNumber: 4,
-        image: '/assets/images/inarizaki/aran-ojiro.png',
+        image: 'assets/images/inarizaki/aran-ojiro.png',
     },
     {
         id: 65,
@@ -664,7 +664,7 @@ export const characters = [
         year: 2,
         position: 'Outside Hitter',
         jerseyNumber: 5,
-        image: '/assets/images/inarizaki/hitoshi-ginjima.png',
+        image: 'assets/images/inarizaki/hitoshi-ginjima.png',
     },
     {
         id: 66,
@@ -675,7 +675,7 @@ export const characters = [
         year: 2,
         position: 'Setter',
         jerseyNumber: 7,
-        image: '/assets/images/inarizaki/atsumu-miya.png',
+        image: 'assets/images/inarizaki/atsumu-miya.png',
     },
     {
         id: 67,
@@ -686,7 +686,7 @@ export const characters = [
         year: 2,
         position: 'Middle Blocker',
         jerseyNumber: 10,
-        image: '/assets/images/inarizaki/rintaro-suna.png',
+        image: 'assets/images/inarizaki/rintaro-suna.png',
     },
     {
         id: 68,
@@ -697,7 +697,7 @@ export const characters = [
         year: 2,
         position: 'Opposite Hitter',
         jerseyNumber: 11,
-        image: '/assets/images/inarizaki/osamu-miya.png',
+        image: 'assets/images/inarizaki/osamu-miya.png',
     },
     {
         id: 69,
@@ -708,7 +708,7 @@ export const characters = [
         year: 2,
         position: 'Wing Spiker / Pinch Server',
         jerseyNumber: 13,
-        image: '/assets/images/inarizaki/yuto-kosaku.png',
+        image: 'assets/images/inarizaki/yuto-kosaku.png',
     },
     {
         id: 70,
@@ -719,7 +719,7 @@ export const characters = [
         year: 1,
         position: 'Wing Spiker / Pinch Server',
         jerseyNumber: 14,
-        image: '/assets/images/inarizaki/heisuke-riseki.png',
+        image: 'assets/images/inarizaki/heisuke-riseki.png',
     },
     {
         id: 71,
@@ -730,21 +730,21 @@ export const characters = [
         year: 3,
         position: 'Libero',
         jerseyNumber: 15,
-        image: '/assets/images/inarizaki/michinari-akagi.png',
+        image: 'assets/images/inarizaki/michinari-akagi.png',
     },
     {
         id: 72,
         type: 'Head Coach',
         name: 'Norimune Kurosu',
         team: 'Inarizaki',
-        image: '/assets/images/inarizaki/norimune-kurosu.png',
+        image: 'assets/images/inarizaki/norimune-kurosu.png',
     },
     {
         id: 73,
         type: 'Assistant Coach',
         name: 'Tarō Ōmi',
         team: 'Inarizaki',
-        image: '/assets/images/inarizaki/taro-omi.png',
+        image: 'assets/images/inarizaki/taro-omi.png',
     },
     {
         id: 74,
@@ -755,7 +755,7 @@ export const characters = [
         year: 2,
         position: 'Outside Hitter (Captain)',
         jerseyNumber: 1,
-        image: '/assets/images/johzenji/yuji-terushima.png',
+        image: 'assets/images/johzenji/yuji-terushima.png',
     },
     {
         id: 75,
@@ -766,7 +766,7 @@ export const characters = [
         year: 2,
         position: 'Middle Blocker',
         jerseyNumber: 2,
-        image: '/assets/images/johzenji/kazuma-bobata.png',
+        image: 'assets/images/johzenji/kazuma-bobata.png',
     },
     {
         id: 76,
@@ -777,7 +777,7 @@ export const characters = [
         year: 2,
         position: 'Setter',
         jerseyNumber: 3,
-        image: '/assets/images/johzenji/takeharu-futamata.png',
+        image: 'assets/images/johzenji/takeharu-futamata.png',
     },
     {
         id: 77,
@@ -788,7 +788,7 @@ export const characters = [
         year: 2,
         position: 'Outside Hitter',
         jerseyNumber: 4,
-        image: '/assets/images/johzenji/katsumichi-higashiyama.png',
+        image: 'assets/images/johzenji/katsumichi-higashiyama.png',
     },
     {
         id: 78,
@@ -799,7 +799,7 @@ export const characters = [
         year: 2,
         position: 'Opposite Hitter',
         jerseyNumber: 7,
-        image: '/assets/images/johzenji/rintaro-numajiri.png',
+        image: 'assets/images/johzenji/rintaro-numajiri.png',
     },
     {
         id: 79,
@@ -810,7 +810,7 @@ export const characters = [
         year: 2,
         position: 'Middle Blocker',
         jerseyNumber: 9,
-        image: '/assets/images/johzenji/nobuyoshi-izaka.png',
+        image: 'assets/images/johzenji/nobuyoshi-izaka.png',
     },
     {
         id: 80,
@@ -821,7 +821,7 @@ export const characters = [
         year: 2,
         position: 'Libero',
         jerseyNumber: 11,
-        image: '/assets/images/johzenji/arata-tsuchiyu.png',
+        image: 'assets/images/johzenji/arata-tsuchiyu.png',
     },
     {
         id: 81,
@@ -829,7 +829,7 @@ export const characters = [
         name: 'Hana Misaki',
         team: 'Johzenji',
         year: 3,
-        image: '/assets/images/johzenji/hana-misaki.png',
+        image: 'assets/images/johzenji/hana-misaki.png',
     },
     {
         id: 82,
@@ -837,14 +837,14 @@ export const characters = [
         name: 'Runa Kuribayashi',
         team: 'Johzenji',
         year: 1,
-        image: '/assets/images/johzenji/runa-kuribayashi.png',
+        image: 'assets/images/johzenji/runa-kuribayashi.png',
     },
     {
         id: 83,
         type: 'Head Coach',
         name: 'Takaaki Anabara',
         team: 'Johzenji',
-        image: '/assets/images/johzenji/takaaki-anabara.png',
+        image: 'assets/images/johzenji/takaaki-anabara.png',
     },
     {
         id: 84,
@@ -855,7 +855,7 @@ export const characters = [
         year: 2,
         position: 'Middle Blocker',
         jerseyNumber: 1,
-        image: '/assets/images/date-tech/takanobu-aone.png',
+        image: 'assets/images/date-tech/takanobu-aone.png',
     },
     {
         id: 85,
@@ -866,7 +866,7 @@ export const characters = [
         year: 2,
         position: 'Outside Hitter (Captain, Ace)',
         jerseyNumber: 2,
-        image: '/assets/images/date-tech/kenji-futakuchi.png',
+        image: 'assets/images/date-tech/kenji-futakuchi.png',
     },
     {
         id: 86,
@@ -877,7 +877,7 @@ export const characters = [
         year: 2,
         position: 'Outside Hitter',
         jerseyNumber: 3,
-        image: '/assets/images/date-tech/yutaka-obara.png',
+        image: 'assets/images/date-tech/yutaka-obara.png',
     },
     {
         id: 87,
@@ -888,7 +888,7 @@ export const characters = [
         year: 1,
         position: 'Setter',
         jerseyNumber: 7,
-        image: '/assets/images/date-tech/kanji-koganegawa.png',
+        image: 'assets/images/date-tech/kanji-koganegawa.png',
     },
     {
         id: 88,
@@ -899,7 +899,7 @@ export const characters = [
         year: 2,
         position: 'Opposite Hitter',
         jerseyNumber: 8,
-        image: '/assets/images/date-tech/taro-onagawa.png',
+        image: 'assets/images/date-tech/taro-onagawa.png',
     },
     {
         id: 89,
@@ -910,7 +910,7 @@ export const characters = [
         year: 1,
         position: 'Middle Blocker',
         jerseyNumber: 11,
-        image: '/assets/images/date-tech/jingo-fukiage.png',
+        image: 'assets/images/date-tech/jingo-fukiage.png',
     },
     {
         id: 90,
@@ -921,7 +921,7 @@ export const characters = [
         year: 1,
         position: 'Libero',
         jerseyNumber: 13,
-        image: '/assets/images/date-tech/kosuke-sakunami.png',
+        image: 'assets/images/date-tech/kosuke-sakunami.png',
     },
     {
         id: 91,
@@ -929,14 +929,14 @@ export const characters = [
         name: 'Mai Nametsu',
         team: 'Date Tech',
         year: 2,
-        image: '/assets/images/date-tech/mai-nametsu.png',
+        image: 'assets/images/date-tech/mai-nametsu.png',
     },
     {
         id: 92,
         type: 'Head Coach',
         name: 'Takurō Oiwake',
         team: 'Date Tech',
-        image: '/assets/images/date-tech/takuro-oiwake.png',
+        image: 'assets/images/date-tech/takuro-oiwake.png',
     },
     {
         id: 93,
@@ -947,7 +947,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter (Captain)',
         jerseyNumber: 1,
-        image: '/assets/images/nohebi/suguru-daisho.png',
+        image: 'assets/images/nohebi/suguru-daisho.png',
     },
     {
         id: 94,
@@ -958,7 +958,7 @@ export const characters = [
         year: 3,
         position: 'Opposite Hitter',
         jerseyNumber: 2,
-        image: '/assets/images/nohebi/yoshiya-takachiho.png',
+        image: 'assets/images/nohebi/yoshiya-takachiho.png',
     },
     {
         id: 95,
@@ -969,7 +969,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter (Ace)',
         jerseyNumber: 4,
-        image: '/assets/images/nohebi/kazuma-numai.png',
+        image: 'assets/images/nohebi/kazuma-numai.png',
     },
     {
         id: 96,
@@ -980,7 +980,7 @@ export const characters = [
         year: 3,
         position: 'Middle Blocker',
         jerseyNumber: 5,
-        image: '/assets/images/nohebi/koji-hiroo.png',
+        image: 'assets/images/nohebi/koji-hiroo.png',
     },
     {
         id: 97,
@@ -991,7 +991,7 @@ export const characters = [
         year: 3,
         position: 'Setter',
         jerseyNumber: 7,
-        image: '/assets/images/nohebi/isumi-sakishima.png',
+        image: 'assets/images/nohebi/isumi-sakishima.png',
     },
     {
         id: 98,
@@ -1002,7 +1002,7 @@ export const characters = [
         year: 2,
         position: 'Libero',
         jerseyNumber: 8,
-        image: '/assets/images/nohebi/so-akama.png',
+        image: 'assets/images/nohebi/so-akama.png',
     },
     {
         id: 99,
@@ -1013,7 +1013,7 @@ export const characters = [
         year: 2,
         position: 'Middle Blocker',
         jerseyNumber: 10,
-        image: '/assets/images/nohebi/akihiko-seguro.png',
+        image: 'assets/images/nohebi/akihiko-seguro.png',
     },
     {
         id: 100,
@@ -1024,14 +1024,14 @@ export const characters = [
         year: 1,
         position: 'Outside Hitter',
         jerseyNumber: 12,
-        image: '/assets/images/nohebi/naoyasu-kuguri.png',
+        image: 'assets/images/nohebi/naoyasu-kuguri.png',
     },
     {
         id: 101,
         type: 'Head Coach',
         name: 'Kiyoshi Ōmizu',
         team: 'Nohebi',
-        image: '/assets/images/nohebi/kiyoshi-omizu.png',
+        image: 'assets/images/nohebi/kiyoshi-omizu.png',
     },
     {
         id: 102,
@@ -1042,7 +1042,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter (Captain, Ace)',
         jerseyNumber: 1,
-        image: '/assets/images/wakutani-minami/takeru-nakashima.png',
+        image: 'assets/images/wakutani-minami/takeru-nakashima.png',
     },
     {
         id: 103,
@@ -1053,7 +1053,7 @@ export const characters = [
         year: 3,
         position: 'Opposite Hitter',
         jerseyNumber: 2,
-        image: '/assets/images/wakutani-minami/shunki-kawatabi.png',
+        image: 'assets/images/wakutani-minami/shunki-kawatabi.png',
     },
     {
         id: 104,
@@ -1064,7 +1064,7 @@ export const characters = [
         year: 3,
         position: 'Outside Hitter',
         jerseyNumber: 4,
-        image: '/assets/images/wakutani-minami/yuki-shiroishi.png',
+        image: 'assets/images/wakutani-minami/yuki-shiroishi.png',
     },
     {
         id: 105,
@@ -1075,7 +1075,7 @@ export const characters = [
         year: 3,
         position: 'Setter',
         jerseyNumber: 5,
-        image: '/assets/images/wakutani-minami/kazumasa-hanayama.png',
+        image: 'assets/images/wakutani-minami/kazumasa-hanayama.png',
     },
     {
         id: 106,
@@ -1086,7 +1086,7 @@ export const characters = [
         year: 3,
         position: 'Middle Blocker',
         jerseyNumber: 8,
-        image: '/assets/images/wakutani-minami/teppei-naruko.png',
+        image: 'assets/images/wakutani-minami/teppei-naruko.png',
     },
     {
         id: 107,
@@ -1097,7 +1097,7 @@ export const characters = [
         year: 2,
         position: 'Libero',
         jerseyNumber: 10,
-        image: '/assets/images/wakutani-minami/kazuteru-akiu.png',
+        image: 'assets/images/wakutani-minami/kazuteru-akiu.png',
     },
     {
         id: 108,
@@ -1108,14 +1108,14 @@ export const characters = [
         year: 1,
         position: 'Middle Blocker',
         jerseyNumber: 11,
-        image: '/assets/images/wakutani-minami/tsuyoshi-matsushima.png',
+        image: 'assets/images/wakutani-minami/tsuyoshi-matsushima.png',
     },
     {
         id: 109,
         type: 'Head Coach',
         name: 'Masaomi Onikōbe',
         team: 'Wakutani Minami',
-        image: '/assets/images/wakutani-minami/masaomi-onikobe.png',
+        image: 'assets/images/wakutani-minami/masaomi-onikobe.png',
     },
 ];
 
@@ -1123,61 +1123,61 @@ export const teams=[
     {
         id: 1,
         name: 'Karasuno',
-        banner: '/assets/images/karasuno/karasuno-banner.jpg',
+        banner: 'assets/images/karasuno/karasuno-banner.jpg',
         prefecture: 'Miyagi',
     },
     {
         id: 2,
         name: 'Aoba Johsai',
-        banner: '/assets/images/aoba-johsai/aoba-johsai-banner.jpg',
+        banner: 'assets/images/aoba-johsai/aoba-johsai-banner.jpg',
         prefecture: 'Miyagi',
     },
     {
         id: 3,
         name: 'Nekoma',
-        banner: '/assets/images/nekoma/nekoma-banner.jpg',
+        banner: 'assets/images/nekoma/nekoma-banner.jpg',
         prefecture: 'Tokyo',
     },
     {
         id: 4,
         name: 'Shiratorizawa',
-        banner: '/assets/images/shiratorizawa/shiratorizawa-banner.jpg',
+        banner: 'assets/images/shiratorizawa/shiratorizawa-banner.jpg',
         prefecture: 'Miyagi',
     },
     {
         id: 5,
         name: 'Fukurōdani',
-        banner: '/assets/images/fukurodani/fukurodani-banner.jpg',
+        banner: 'assets/images/fukurodani/fukurodani-banner.jpg',
         prefecture: 'Tokyo',
     },
     {
         id: 6,
         name: 'Inarizaki',
-        banner: '/assets/images/inarizaki/inarizaki-banner.jpg',
+        banner: 'assets/images/inarizaki/inarizaki-banner.jpg',
         prefecture: 'Hyōgo',
     },
     {
         id: 7,
         name: 'Johzenji',
-        banner: '/assets/images/johzenji/johzenji-banner.jpg',
+        banner: 'assets/images/johzenji/johzenji-banner.jpg',
         prefecture: 'Miyagi',
     },
     {
         id: 8,
         name: 'Date Tech',
-        banner: '/assets/images/date-tech/date-tech-banner.jpg',
+        banner: 'assets/images/date-tech/date-tech-banner.jpg',
         prefecture: 'Miyagi',
     },
     {
         id: 9,
         name: 'Nohebi',
-        banner: '/assets/images/nohebi/nohebi-banner.jpg',
+        banner: 'assets/images/nohebi/nohebi-banner.jpg',
         prefecture: 'Tokyo',
     },
     {
         id: 10,
         name: 'Wakutani Minami',
-        banner: '/assets/images/wakutani-minami/wakutani-minami-banner.jpg',
+        banner: 'assets/images/wakutani-minami/wakutani-minami-banner.jpg',
         prefecture: 'Miyagi',
     }
 ];

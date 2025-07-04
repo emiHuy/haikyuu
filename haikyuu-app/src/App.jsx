@@ -8,7 +8,7 @@ import './css/App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/haikyuu/'>
       <NavBar />
         <Routes>
           <Route path='/' element={<Navigate to='/characters' replace />} />

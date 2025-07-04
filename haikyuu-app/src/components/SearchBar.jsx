@@ -10,7 +10,7 @@ function SearchBar({searchTerm, setSearchTerm, placeholder='Search character...'
     return (
         <div className='search-bar-container' onClick={handleClick}>
             <div className='search-bar'>
-                <img src='/assets/images/search-icon.png' width='25'></img>
+                <img src={`${import.meta.env.BASE_URL}/assets/images/search-icon.png`} width='25'></img>
                 <input
                     ref={inputRef}
                     type='text'

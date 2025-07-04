@@ -4,7 +4,7 @@ function RosterCard({character}) {
     if (character.type == 'Player') {
         return (
             <div className='roster-card'>
-                <img src={character.image}/>             
+                <img src={`${import.meta.env.BASE_URL}${character.image}`}/>             
                 <div className='text'>
                     <h2>{character.name}</h2>
                     <h3>{character.position}</h3>
@@ -17,7 +17,7 @@ function RosterCard({character}) {
     } else if (character.type == 'Manager') {
         return (
             <div className='roster-card'>
-                <img src={character.image}/>
+                <img src={`${import.meta.env.BASE_URL}${character.image}`}/>
                 <div className='text'>
                     <h2>{character.name}</h2>
                     <h3>{character.type}</h3>
@@ -28,7 +28,7 @@ function RosterCard({character}) {
     } else {
         return (
             <div className='roster-card'>
-                <img src={character.image}/>
+                <img src={`${import.meta.env.BASE_URL}${character.image}`}/>
                 <div className='text'>
                     <h2>{character.name}</h2>
                     <h3>{character.type}</h3>

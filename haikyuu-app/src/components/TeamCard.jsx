@@ -7,7 +7,7 @@ function TeamCard({team}) {
     
     return (
         <div className='team-card' onClick={() => navigate(`/teams/${teamName}`)}>
-            <img src={team.banner} alt={team.name}/>
+            <img src={`${import.meta.env.BASE_URL}${team.banner}`} alt={team.name}/>
             <h2>{team.name}</h2>
         </div>
     )
