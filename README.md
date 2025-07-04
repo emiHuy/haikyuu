@@ -75,7 +75,7 @@ haikyuu/ # Root repository folder
 **Author:** Emily <br>
 **Built With:** React, JavaScript, CSS <br>
 **Date Created:** June 23, 2025  <br>
-**Last Updated:** July 2, 2025 
+**Last Updated:** July 4, 2025 
 
 
 ## 📸 Gallery
